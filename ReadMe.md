@@ -12,6 +12,6 @@ Software Engineer with 3 years of experience specializing in React Native, React
 
 # 📊 GitHub Stats:
 
-![](https://github-readme-stats.vercel.app/api?username=gbenga2540&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/><br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=gbenga2540&theme=dark&hide_border=false)<br/><br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=gbenga2540&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+![](https://github-readme-stats.vercel.app/api?username=gbenga2540&theme=one_dark_pro&hide_border=true&include_all_commits=true&count_private=true)<br/><br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=gbenga2540&theme=one_dark_pro&hide_border=true)<br/><br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=gbenga2540&theme=one_dark_pro&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
