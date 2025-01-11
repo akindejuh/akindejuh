@@ -4,7 +4,7 @@ Software Engineer with 3 years of experience specializing in React Native, React
 
 # 🌐 Socials:
 
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/gbenga2540/) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/akindeju-oluwagbemiga-004b95225/) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/Akindeju_Gbenga)<br/>
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/akindejuh/) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/akindeju-oluwagbemiga-004b95225/) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/Akindeju_Gbenga)<br/>
 
 # 💻 Tech Stack:
 
@@ -12,6 +12,6 @@ Software Engineer with 3 years of experience specializing in React Native, React
 
 # 📊 GitHub Stats:
 
-![](https://github-readme-stats.vercel.app/api?username=gbenga2540&theme=one_dark_pro&hide_border=true&include_all_commits=true&count_private=true)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=gbenga2540&theme=one_dark_pro&hide_border=true)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=gbenga2540&theme=one_dark_pro&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
+![](https://github-readme-stats.vercel.app/api?username=akindejuh&theme=one_dark_pro&hide_border=true&include_all_commits=true&count_private=true)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=akindejuh&theme=one_dark_pro&hide_border=true)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=akindejuh&theme=one_dark_pro&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
