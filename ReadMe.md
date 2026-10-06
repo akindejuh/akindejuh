@@ -1,6 +1,9 @@
 # 💫 About Me:
 
-Software Engineer with 4 years of experience specializing in React Native, React.js, and Node.js. Achieved significant improvements in deployment accuracy and application performance through thorough testing and clean coding practices. Successfully collaborated with design teams to meet project goals and deliver high-quality software on time. Eager to leverage technical expertise to contribute to impactful projects and gain further experience in full-stack and cloud infrastructure.<br/>
+Software engineer with 5+ years of experience building scalable applications. I've led high-impact projects that improved
+deployment accuracy by 62% and enhanced application performance by 63% through rigorous code quality and testing practices. My work
+reducing bugs and strengthening system stability contributed to a 36% revenue increase and 93% on-time delivery rate across several platforms. I have published open-source packages and actively contributed to other projects, demonstrating technical leadership and community
+involvement. I am all about solving complex technical problems and delivering high-performance solutions that work at scale.<br/>
 
 # 🌐 Socials:
 
